@@ -1,41 +1,116 @@
+<!-- Profile Banner -->
+![Banner](https://github.com/Raje263/Rajesh_kumar_Patra/blob/main/banner.jpg)
 
- ![logo](https://github.com/Raje263/Rajesh_kumar_Patra/blob/main/banner.jpg)
-<h1 align="center">Hi 👋, I'm Rajesh kumar patra</h1>
-<h3 align="center">A passionate Full-stack Web Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rajesh Kumar Patra</h1>
+<h3 align="center">🚀 Full-Stack Web Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
-<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raje263&label=Profile%20views&color=0e75b6&style=flat" alt="raje263" /> </p>
-
-- 🔭 I’m currently Studying Bachler of Computer Application(BCA) [BCA](Berhampur university)
-
-- 🌱 I’m currently learning **MERN stack development**
-
-- 👯 I'm currently Working to Develop a portfolio website [MY-Portfolio](https://rajeshpatra121.github.io/RajPortflio/)
-
-- 👨‍💻 All of my projects are available at [https://rajeshpatra121.github.io/RajPortflio/](https://rajeshpatra121.github.io/RajPortflio/)
-
-- 💬 Ask me about **"Hi, I’m Rajesh, a BCA graduate and passionate Web Developer. I enjoy building real-world projects, learning new technologies, and sharing my work with the developer community."**
-
-- 📫 How to reach me **rp1558972@gmail.com**
-
-- 📄 Know about my experiences [https://rajesh-kumar-patra-resume.tiiny.site](https://rajesh-kumar-patra-resume.tiiny.site)
-
-- ⚡ Fun fact **😊i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajesh-kumar-patra2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-kumar-patra2025" height="30" width="40" /></a>
-<a href="https://fb.com/rajesh kumar patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajesh kumar patra" height="30" width="40" /></a>
-<a href="https://instagram.com/its_me_rajesh_1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_rajesh_1234" height="30" width="40" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7EF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Open+Source+Contributor;Passionate+about+Building+Projects;Always+Learning+New+Tech!"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raje263&show_icons=true&locale=en&layout=compact" alt="raje263" /></p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raje263&show_icons=true&locale=en" alt="raje263" /></p>
+### 👨‍💻 About Me  
+- 🎓 Pursuing **BCA** from *Berhampur University*  
+- 🌱 Learning **MERN Stack (MongoDB, Express, React, Node.js)**  
+- 💼 Currently developing → [**My Portfolio**](https://rajeshpatra121.github.io/RajPortflio/)  
+- 💬 Ask me about **React, Node.js, APIs, MongoDB, UI/UX**  
+- 📫 Reach me → **rp1558972@gmail.com**  
+- 📄 Resume → [**rajesh-kumar-patra-resume.tiiny.site**](https://rajesh-kumar-patra-resume.tiiny.site)  
+- ⚡ Fun fact → I love solving problems and making ideas come alive 🚀  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raje263&" alt="raje263" /></p>
+---
+
+### 🌍 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/rajesh-kumar-patra2025" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/its_me_rajesh_1234" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:rp1558972@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,php,cpp,c,tailwind,bootstrap,vscode,git,github,postman" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raje263&theme=radical&no-frame=true&margin-w=5&row=1" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raje263&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raje263&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raje263&theme=tokyonight&hide_border=true" height="160px" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raje263&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+| 🌟 Project | Description | Live Demo |
+|-------------|--------------|-----------|
+| 💼 **My Portfolio Website** | Personal portfolio built with React & Tailwind | [View Live](https://rajeshpatra121.github.io/RajPortflio/) |
+| 🛍️ **E-Commerce Store (MERN)** | Full-stack product management app | Coming Soon 🚧 |
+| 🎓 **Student Management System** | Node.js + MySQL CRUD App | Coming Soon 🚀 |
+
+---
+
+### 💡 Current Focus
+🌟 Building scalable full-stack applications  
+🧠 Mastering **React Hooks**, **Node.js**, and **API design**  
+🎨 Improving UI/UX design with **Tailwind & Framer Motion**  
+⚙️ Exploring **Next.js**, **Firebase**, and **TypeScript**  
+
+---
+
+### 🏅 Achievements & Highlights
+- 🏆 **Top GitHub Contributor** (Active daily for 30+ days)
+- 💻 **Completed 20+ Projects** including portfolio, CRUD, and API apps  
+- 🌍 **Open Source Contributor** — shared MERN stack code snippets  
+- 🧩 **Always Learning** — currently exploring **Next.js and Cloud Deployments**
+
+---
+
+### 💬 Favorite Quote
+> “The best way to predict the future is to invent it.” – *Alan Kay*
+
+---
+
+### 🎯 Goals for 2025
+- ✅ Build 5+ real-world MERN stack projects  
+- 🚀 Launch my own portfolio website  
+- 🌍 Start contributing to open-source projects  
+- 🎓 Prepare for full-time web developer role  
+
+---
+
+### 💬 Let's Collaborate!
+<p align="center">
+  <a href="mailto:rp1558972@gmail.com"><img src="https://img.shields.io/badge/💌%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rajesh-kumar-patra2025"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/its_me_rajesh_1234"><img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ **"Code. Learn. Build. Repeat."**  
